@@ -107,7 +107,7 @@
 		E49B4EA21FB98DCC00091004 /* AppLifeCycle1 */ = {
 			isa = PBXGroup;
 			children = (
-				E49B4ED11FBA7C3D00091004 /* UIKitDemo */,
+				E49B4ED11FBA7C3D00091004 /* SegueDemo */,
 				E49B4EA31FB98DCC00091004 /* AppDelegate.swift */,
 				E49B4EA51FB98DCC00091004 /* ViewController1.swift */,
 				E49B4EA71FB98DCC00091004 /* Main.storyboard */,
@@ -137,7 +137,7 @@
 			path = AppLifeCycle1UITests;
 			sourceTree = "<group>";
 		};
-		E49B4ED11FBA7C3D00091004 /* UIKitDemo */ = {
+		E49B4ED11FBA7C3D00091004 /* SegueDemo */ = {
 			isa = PBXGroup;
 			children = (
 				E49B4ED21FBA810100091004 /* LLCustomSegue.swift */,
@@ -145,7 +145,7 @@
 				E49B4ED81FBA888700091004 /* SecondVC.swift */,
 				E49B4EDA1FBA889300091004 /* ThridVC.swift */,
 			);
-			path = UIKitDemo;
+			path = SegueDemo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
